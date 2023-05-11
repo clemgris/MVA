@@ -1,0 +1,3 @@
+[submodule "object_recognition/RecVis-Project"]
+	path = object_recognition/RecVis-Project
+	url = https://github.com/RomanPlaud/RecVis-Project.git
