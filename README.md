@@ -9,6 +9,7 @@ This repository houses the coding exercises and projects completed during the MV
   - Reinforcement learning
   - Large scale and distributed optimization
   - Optimal transport
+  - Image denoising
  
 - Second semester
   - Deep reinforcement learning
