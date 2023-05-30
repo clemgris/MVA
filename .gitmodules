@@ -1,3 +1,6 @@
 [submodule "object_recognition/RecVis-Project"]
 	path = object_recognition/RecVis-Project
 	url = https://github.com/RomanPlaud/RecVis-Project.git
+[submodule "time_series/TimeSeries-Project"]
+	path = time_series/TimeSeries-Project
+	url = https://github.com/RomanPlaud/TimeSeries-Project.git
