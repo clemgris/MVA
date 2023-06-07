@@ -1,4 +1,4 @@
 # Themes
 - Dynamic programming
-- Tabular Reinforcement Learning
-- Value function approximation
+- Tabular RL
+- RL function approximation
