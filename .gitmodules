@@ -7,3 +7,6 @@
 [submodule "sequential_learning/flappy_bird"]
 	path = sequential_learning/flappy_bird
 	url = https://github.com/aubin-tchoi/flappy_bird.git
+[submodule "deep_reinforcement_learning/flappy_bird"]
+	path = deep_reinforcement_learning/flappy_bird
+	url = https://github.com/aubin-tchoi/flappy_bird.git
