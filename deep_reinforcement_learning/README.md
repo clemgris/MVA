@@ -1,0 +1,4 @@
+# Course objectives
+Deep Reinforcement Learning (DRL) has revolutionized Reinforcement Learning by enabling its application to large-scale tasks like Atari Games, Go, Chess, Starcraft II, and Dota. However, implementing DRL goes beyond combining deep learning with traditional reinforcement learning methods. In this course, we explore the evolution of DRL, from Neural fitted-Q to popular approaches like Deep Q-Network (DQN), Asynchronous Actor Critic, and the latest MuZero. We delve into the theoretical and practical aspects of each algorithm, addressing issues such as overestimation biases, off-policyness in multi-step returns, and policy optimization regularization. Through hands-on sessions, students will gain experience implementing and testing DRL algorithms using JAX and Haiku on simple environments, fostering a comprehensive understanding of DRL principles and practical implementation.
+# Teacher(s)
+Corentin TALLEC, Morgane RIVIERE, Bilal PIOT
