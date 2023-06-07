@@ -1,6 +1,6 @@
-## Course objectives
+# Course objectives
 Explore the theoretical foundations of 3D computer vision from multiple views, with emphasis on binocular stereo, and show the practical limitations in the algorithmic state of the art.
-### Themes
+## Themes
 
    - Camera geometry, panorama construction
    - Calibration, projection matrix
@@ -10,5 +10,5 @@ Explore the theoretical foundations of 3D computer vision from multiple views, w
    - Disparity maps with global methods, graph cuts
    - Multiple view stereo
 
-## Teacher
+# Teacher(s)
 Pascal MONASSE, Mathieu AUBRY
