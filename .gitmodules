@@ -4,3 +4,6 @@
 [submodule "time_series/TimeSeries-Project"]
 	path = time_series/TimeSeries-Project
 	url = https://github.com/RomanPlaud/TimeSeries-Project.git
+[submodule "sequential_learning/flappy_bird"]
+	path = sequential_learning/flappy_bird
+	url = https://github.com/aubin-tchoi/flappy_bird.git
